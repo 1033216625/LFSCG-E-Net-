@@ -1,0 +1,331 @@
+./run.sh -g 0 -c checkpoint/img2prog_se --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/img2prog --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/RFINet_complexnet --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet-se --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet-se --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet-se --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet-se --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/img2prog-params-0.3+50000 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/img2prog-params-0.3+50000 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/img2prog --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/img2prog --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/img2prog --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/22222 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/22222 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/22222 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/22222 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/22222 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/33333 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/33333 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/33333 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/33333 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/33333 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/33333 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/22222 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/44444 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/44444 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/44444 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/44444 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/44444 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/11111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/640x640/ --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/111 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoit/2 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoit/2 --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/c --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/feat --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/feat --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/feat --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/feat --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/feat --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/feat --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/feat --params use_resnet=1,use_rend=0,use_tran=0
+./run.sh -g 0 -c checkpoint/o --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/o --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/o --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet2 --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=2 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet2_origin --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=2 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet2_origin --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=2 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet2_origin --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=2 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet3_bottleneck --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet3_bottleneck --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet3_bottleneck --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet3_bottleneck --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet3_bottleneck --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RF --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RF --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/bottleneck --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/bottleneck --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/bottleneck --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/bottleneck --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/bottleneck --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/bottleneck --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/bottleneck --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/bottleneck --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/bottleneck --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/5 --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/5 --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/0 --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/CDBA --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/CDBA --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/CDBA --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/1 --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/ECA --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/RFINet_complexnet --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/1 --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/1 --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/1 --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/GAM --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./run.sh -g 0 -c checkpoint/GAM --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,bunet_test=3 --weights loss_D*=1.0,loss_G*=0.2
+./execute.sh -g 0 -c checkpoint/RFINet_complexnet --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,lfscg-e-net=1 --weights loss_D*=1.0,loss_G*=0.2
+./execute.sh -g 0 -c checkpoint/RFINet_complexnet --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,lfscgenet=1 --weights loss_D*=1.0,loss_G*=0.2
+./execute.sh -g 0 -c checkpoint/RFINet_complexnet --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,lfscgenet=1 --weights loss_D*=1.0,loss_G*=0.2
+./execute.sh -g 0 -c checkpoint/RFINet_complexnet --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,lfscgenet=1 --weights loss_D*=1.0,loss_G*=0.2
+./execute.sh -g 0 -c checkpoint/RFINet_complexnet --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,lfscgenet=1 --weights loss_D*=1.0,loss_G*=0.2
+./execute.sh -g 0 -c checkpoint/RFINet_complexnet --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,lfscgenet=1 --weights loss_D*=1.0,loss_G*=0.2
+./execute.sh -g 0 -c checkpoint/lfscg-e-net --learning_rate 0.0005 --params discr_img=1,bvggloss=1,gen_passes=1,bloss_unsup=0,decay_steps=50000,decay_rate=0.3,lfscgenet=1 --weights loss_D*=1.0,loss_G*=0.2
