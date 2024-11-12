@@ -1,4 +1,5 @@
 # LFSCG-E-Net-
+![Teaser](图片4.png)
 Enhancing Low-Frequency Stitch Code Generation for Knitted Fabrics
 This repository contains code for the paper **"Enhancing Low-Frequency Stitch Code Generation for Knitted
 Fabrics: An LFSCG-E-Net Approach". ** 
